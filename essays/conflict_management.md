@@ -12,4 +12,4 @@ labels:
 
 ## Configuration Management
 
-Configuration Manegement is very important in order for software engeneers to be able to work on a project as a team.
+Configuration Management is very important especially in order for software engineers to be able to work on a project as a team.  
