@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Connecting Each Other
 date: 2016-09-15
 labels:
