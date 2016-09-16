@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Connecting Each Other
+title: Why Configuration Management And Git?
 date: 2016-09-15
 labels:
   - Git Hub
@@ -18,4 +18,4 @@ Personally, I have never worked on any group projects in software.  However, I h
 
 ## GitHub & Git
 
-To address the problems of configuration management, GitHub is the most popular cloud-based software hosting platform, and Git is the most popular technology for configuration management.  
+What do you think... *"Is GitHub popular becasue of Git?"* or *"Is Git popular because of GitHub?"* In order to answer this question, the definitions of GitHub and Git have to e clear.  GitHub is the most popular cloud-based software hosting platform, and Git is the most popular technology for configuration management.  Both GotHub and Git are used to address the problems of configuration management.  My understanding is that Git is a distributed version control system that keeps track of changes and updates, and it works perfectly with GitHub which allows users to share codes and to make a clone of a repository.  Therefore, I think *"GitHub is popular because of Git."*
