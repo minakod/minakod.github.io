@@ -5,7 +5,10 @@ published: false
 title: The difficult things will always be difficult
 date: 2016-09-22
 labels:
-  - Engineering
+  - Coding
+  - JavaScript
+  - ESLint
+  - IntelliJ
 ---
 ##hello
 
