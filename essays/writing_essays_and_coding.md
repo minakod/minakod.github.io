@@ -19,5 +19,21 @@ As writing a paper requires a writer to follow the given instructions, coding al
 
 ## Corrected Automatically
 
-This is my first week using IntelliJ and ESLint.  ESLint corrects a code based on coding standards.  It was painful but useful at the same time.
+This is my first week using IntelliJ and ESLint.  ESLint corrects a code based on coding standards.  It was painful but was useful at the same time.  I was used to write a code like
 
+```javascript
+function Hello()
+{
+  console.log('Hello World');
+}
+```
+
+But I was corrected to
+
+```javascript
+function Hello() {
+  console.log('Hello World');
+}
+```
+
+The miner correction is changing ```let``` to ```const```.  I started to used to it and have a habit to write *clear* and *readable* code for everyone.  
