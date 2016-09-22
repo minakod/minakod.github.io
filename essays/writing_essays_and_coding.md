@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: Writing Essays And Coding
 date: 2016-09-22
 labels:
