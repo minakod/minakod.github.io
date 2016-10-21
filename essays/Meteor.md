@@ -17,6 +17,6 @@ The website created with Meteor looked awesome and cool.  It had some tastes of 
 
 The past week I was working on building a website called "Digits."  It stored contacts with name, address, telephone number and email address.  It also allowed the users to add another contact, edit and update the contacts, copy them and delete them.  I have not had time to modify and make it fancy, yet it has characteristics of UI Framework.
 
-<img src="http://i.imgur.com/Jjwsc.jpg">
+<img src="">
 
 I found difficulties that there were a lot of pages in order to create a website.  It was hard to connect a page to fit pages. It could lead to crushing the site or that something would not work.  Also, I had a single space in between function calls and did not work.  This applies not only to Meteor but also coding in general, though. 
