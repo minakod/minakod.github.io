@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 image: images/carseat.gif
 title: Baby Seat
 permalink: projects/baby seat
