@@ -26,5 +26,5 @@ I decided to think about a bible app which allowed users to highlight, share wit
 
 Through this project, I found that testing by a user who did not know about it with a clear description is very important.  Because of the test, I could point out what to improve and have a different perspective of the project to add on.  When I test it by myself, I know how it supposed to work so easily miss a section that is unclear to the users.  On the other hand, a tester can find many parts that I missed.  Additionally, thinking about the target audience makes more efficient on creating projects.  There are no such products that can be used by *anyone*.  Therefore, it would be nice to focus on the target audience, how they are going to use it, when they will interact with it and so on.
 
-You can learn more at the [dropbox](https://www.dropbox.com/s/3ni11qx8upnt1r7/FinalPresentation.mov?dl=0).
+You can learn more about this app [here](https://www.dropbox.com/s/3ni11qx8upnt1r7/FinalPresentation.mov?dl=0).
 
