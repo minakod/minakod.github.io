@@ -48,12 +48,15 @@
     {
       "name": "Languages and Frameworks",
       "level": "",
-      "keywords": [
+      "keywords": [   
+        "Javascript",
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "HTML"
+        "HTML",
+        "CSS",
+        "PHP",
+        "MySQL"
       ]
     },
     {
@@ -95,7 +98,7 @@
       "website": "",
       "startDate": "2012-04",
       "endDate": "2012-12",
-      "summary": "entrying data of some comanies' specification from to a program that the company made.",
+      "summary": "Entrying data of some comanies' specification from to a program that the company made.",
       "highlights": [
         
       ]
@@ -109,9 +112,17 @@
       "endDate": "Present",
       "summary": "Leading a bible study with high school students and young adults.",
       "highlights": [
-       
       ]
-    }
+    },
+    {
+      "organization": "Inter Varsity - ISM(Internatinal StudentMinistry)",
+      "position": "Co-Leader",
+      "startDate": "2015-09-01",
+      "endDate": "Present",
+      "summary": "Planning monthly events",
+      "highlights": [
+      ]
+    },
   ],
   "awards": [
     {
