@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/login.png
+image: images/diary.png
 title: Your Diary
 permalink: projects/yourdiary
 date: 2016-12-02
