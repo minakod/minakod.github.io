@@ -24,4 +24,6 @@ This web app was a group project for ICS314.  I was assigned to a group of four 
 
 I was assigned to create a login page, landing page, terms of use page, profile page, study session page, report page and admin pages as well as designing most of other pages.  At first, I created each mock-up page and then connected to database (we used MongoDB collection in Meteor) to get a data.  Moreover, some pages required getting two different collections such as from profiles and study session.  It was one of the complicated functionality in this app.
 
-I enjoyed creating all those pages using [Semantic UI](http://semantic-ui.com) to design pages.
+I enjoyed creating all those pages using [Semantic UI](http://semantic-ui.com) to design pages.  I learned how to connect two or more different collections on one page and get specific fields from it.  Also, this project required researching on our own to get a *cool* function.  I looked up so many sites to make it function the app.  I was able to improve not only programming skills but also how to work with teammates.
+
+For more information, visit our [GitHub](https://cram-colleague.github.io)
