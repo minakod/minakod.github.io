@@ -12,7 +12,7 @@ labels:
 
 ## Why Do We Need To Learn UI
 
-With HTML and CSS, we could build any website. Then why do we need to learn UI although it is like learning another programming language?  Is it really worth spending extra time to learn UI?
+With HTML and CSS, we could build any website. Then why do we need to learn UI although it is like learning another programming language?  Is it really worth spending extra time to learn [Semantic UI](http://semantic-ui.com)?
 
 The answer is YES.  UI is a development framework that helps to make a website look beautiful yet much simpler to use compared to just using raw HTML and CSS.  One of the differences from raw HTML and CSS is that UI uses natural language, which is user-friendly. For example, when we want to develop two red buttons, we could simply say
 
