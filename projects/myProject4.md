@@ -16,8 +16,6 @@ summary: A web app that allows students in University of Hawaii at Manoa to coll
 
 ## CRAM
 
-<img class="ui large bordered image" src="../images/home.png">
-<br />
 <img class="ui laege bordered image" src="../images/cram_profile.png">
 
 <br />
