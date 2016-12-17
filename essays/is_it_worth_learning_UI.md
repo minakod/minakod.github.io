@@ -29,6 +29,4 @@ Another feature is that the developers do not need to make various HTML for each
 
 There is a difference in JavaScript as well when we use UI.  In UI, javaScript code is simpler than other frameworks such as Twitter Bootstrap.  UI is such an user-friendly development tool and is worth to spend time and to put effort into learning.
 
-## Is UI Better Than Other Development Frameworks?
-
-Actually, I have never used other development framework.  However, I researched and found that UI was much easier than Twitter Bootstrap.  Honestly, Semantic UI was difficult for me and a little bit confusing.  I would like to continue learning it and want to get used to its structures and functions, even though it is hard because I know it is worth being able to use it!
+I found myself enjoying UI so much while developing a web app.  I have created a website with HTML and CSS, yet UI is much simpler and looks more professional.  I could spend tons of hours to figure out the design of the page in HTML and CSS.  On the other hand, UI saves me for hours and brings an amazing output.

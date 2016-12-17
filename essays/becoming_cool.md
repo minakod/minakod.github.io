@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Becoming Cool
+published: false
 date: 2016-10-20
 labels:
   - Meteor
