@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/home.png
+image: images/login.png
 title: Cram
 permalink: projects/cram
 date: 2016-12-16
@@ -16,9 +16,9 @@ summary: A web app that allows students in University of Hawaii at Manoa to coll
 
 ## CRAM
 
-<img class="ui medium bordered image" src="../images/home.png" style="height=160">
+<img class="ui medium bordered image" src="../images/home.png" style="height=200">
 <br />
-<img class="ui medium bordered image" src="../images/cram_profile.png" style="height=160">
+<img class="ui medium bordered image" src="../images/cram_profile.png" style="height=200">
 
 <br />
 
