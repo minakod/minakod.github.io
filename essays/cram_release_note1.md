@@ -35,6 +35,9 @@ Also, as I looked through the app, I found several places where I needed to fix 
 ## What I Plan To Accomplish
 
 What I plan to accomplish for next milestone (February 1) is:  
+
+
+
 * Revising Calendar Functionality: There is a simple calendar functionality in CRAM, but it needs to fix because it is not connecting to the study session yet.  I will need to research about it and implement to CRAM since I wasn't in charge of this functionality last semester.  I would like calendar function to connect with a study session and being able to create and delete the study session.  The design of the calendar page is needed to change as well.  
 * Notification System: There was a feedback about new functionality that users would like to have and that was notification system.  The users would want to be notified when new profile or new study session are created, or when there is a change in the study session that they are in.  Also, if the users is a teacher of the study session, they would like to have a notification when new students added to their sessions.  
 
