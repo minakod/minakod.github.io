@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: CRAM Release Note1
-permalink: projects/cram
+permalink: essays/cram_release_note1
 date: 2017-01-15
 labels:
   - Web Development
