@@ -17,6 +17,8 @@ This is a first release note for continuing work on an app, called CRAM.  I was 
 
 ## What I Worked On 
 
+* リスト1
+
 Past week, I looked back what my teammates and I have done so far and listed what I would need to do from now on.  There were some functionalities that were not working correctly, and also where I would need to change majorly.  I listed several issues that I would need to work on for the next couple of weeks.  
 Since there were only five days till milestone 1, I fixed small issues.  
 *  Study Session: There was a going button so that when users click it, it would add the user as a participant of a study session. However, it was showing although the users had not created a profile. Therefore, I edited not to show the going button when the users haven't created the profile.  
