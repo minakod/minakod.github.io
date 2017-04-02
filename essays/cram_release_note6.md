@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: CRAM Release Note56
+title: CRAM Release Note6
 date: 2017-04-01
 labels:
   - Web Development
