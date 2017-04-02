@@ -26,7 +26,7 @@ Here are two main functions that I worked on the last two weeks:
 
 
 
-* Create Study (Tutorial): I adjusted the tutorial page for creating new study session as I updated the actual creating page with input date and time and options for class, start and end time.  The user can see the exact options that is the same as the actual page.
+* Create Study (Tutorial): I adjusted the tutorial page for creating new study session as I updated the actual creating page with input date and time and options for class, start and end time.  The user can see the exact options that are the same as the actual page.
 * User Page (Tutorial): Since there are three pages for the user page, schedule, message and report, I created tutorial pages for each page.  I also added fake schedule and message so that it would be easier for users to refer to.  Because there is a tab menu on the user page, the user tutorial page also has the same tab menu and it leads to each section’s tutorial page.  There is a button to go to the actual page of the tutorial for each page as well.  It also has a fake notification in the tutorial page.
 * Study Session: I updated the output for the teacher of study sessions.  It searched the owner (created) of the study session before, but I updated to check the first and last name of the teacher and print the name and its link.
 
@@ -44,7 +44,7 @@ What I plan to accomplish for next milestone (April 15) is:
 
 
 
-For the next two weeks, I would like to work on allowing the user to choose being teacher or student.  I would need to figure out how to separate them.  Also, I will start planning about the user test
+For the next two weeks, I would like to work on allowing the user to choose being teacher or student.  I would need to figure out how to separate them.  Also, I will start planning for the user test
 
 
   
