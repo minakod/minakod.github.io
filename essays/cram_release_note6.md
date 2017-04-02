@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: CRAM Release Note56
 date: 2017-04-01
 labels:
@@ -44,11 +44,11 @@ What I plan to accomplish for next milestone (April 15) is:
 
 
 
-For the next two weeks, I would like to spend my time changing the tutorial pages based on the past modification.
+For the next two weeks, I would like to work on allowing the user to choose being teacher or student.  I would need to figure out how to separate them.  Also, I will start planning about the user test
 
 
-
-* Tutorial Page: I will need to change the tutorial for the user page and for creating new study sessions.  
+  
 * Create Study Session: I would allow the user to choose whether they want to be a teacher of study session or students.  Now, the user can only be a teacher for the study session.
 * Study Session Page: Since I allowed the user to create a study session as a student, I would need to add a button to be a teacher for the already created study sessions.
+* User Test: I will start planning how to do the user test.
 
