@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: CRAM Release Note8
 date: 2017-05-01
 labels:
@@ -22,16 +22,16 @@ Last two weeks, I was working on deployment for the cram and on updating the cra
 
 
 
-* Deployment: I 
-* Cram Homepage:
+* Deployment: I created the account on Meteor and deployed the cram on the galaxy.  In order to deploy on the galaxy, first I needed the database, so I created one for the cram on sandbox Mongo DB.  After having a database for the app, I can create or update settings file for Galaxy.
+* Cram Homepage: I updated cram homepage so that all the information and photos are up to date.  Some functionalities are the same yet the design changed, so I needed to update most photos.  Also, new functionalities such as calendar are added to the user guide.
 
 
 
 ## The Obstacles
 
-The obstacle that I faced was figuring out how the one change affects the others.  At first, I was not noticing that I would need to change the user schedule page.  However, when I checked each page, I found that it was not showing the results.
+The obstacle that I faced was errors when I deployed onto the galaxy.  It keeps giving me an error when I start the app so I would need to stop running and change it some part.  I would still need to figure out the error to run my app on the galaxy correctly.
 
-Also, I was going to have some user tests.  Therefore, I needed to spend some time searching for what is the good way to test my app.  It suggested that it would be better to have well function mockup pages, about 5 to 7 testers of the app, a well-planed test plan that would take about 30 min of the participants’ time.  I just searched but not able to get the test plan yet.
+Also, in the user guide, I should not have all the photos of functionalities but choose which information would be helping the users and/or be attracted to them.  
 
 
 ## What I Plan To Accomplish
@@ -40,11 +40,11 @@ What I plan to accomplish for next milestone (May 15) is:
 
 
 
-For the next two weeks, I would like to work on improving the cram page that interviewer might take a look.
+For the next two weeks, I would like to continue working on improving the cram page that interviewer might take a look.
 
 
 
-* Cram home page: I will make the cram home page as up to date with screenshots of working systems or pages with some realistic data.
-* Deploy on Galaxy: I would try to build the cram on the galaxy and make it functions on brows.
-* Fix Bugs: during the deployment, I will find major bugs that pop up and fix important bugs.
+
+* Deploy on Galaxy: I will continue working on deployment and make it function on the galaxy.
+* Fix Bugs: I will find major bugs that pop up during the deployment and fix important bugs.
 
