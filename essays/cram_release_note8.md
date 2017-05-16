@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: CRAM Release Note8
 date: 2017-05-01
 labels:
