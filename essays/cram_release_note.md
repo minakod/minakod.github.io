@@ -15,17 +15,17 @@ labels:
 This is a first release note for continuing work on an app, called CRAM.  I was assigned to a group of four students to work on CRAM.  However, I am and will be working on this project by myself this semester to improve CRAM. For more information about CRAM, visit [here](https://cram-colleague.github.io)
 
 ## Release Dates
-* May 15, 2017
-* May 1, 2017
-* April 15, 2017
-* April 1, 2017
-* March 15, 2017
-* March 1, 2017
-* February 15, 2017
-* February 1, 2017
-* <a href=“#1-15-2017”>January 15, 2017</a>
+* <a href="#5-15-2017">May 15, 2017</a>
+* <a href="#5-1-2017">May 1, 2017</a>
+* <a href="#4-15-2017">April 15, 2017</a>
+* <a href="#4-1-2017">April 1, 2017</a>
+* <a href="#3-15-2017">March 15, 2017</a>
+* <a href="#3-1-2017">March 1, 2017</a>
+* <a href="#2-15-2017">February 15, 2017</a>
+* <a href="#2-1-2017">February 1, 2017</a>
+* <a href="#1-15-2017">January 15, 2017</a>
 
-# January 15, 2017
+<div id="1-15-2017"></div>
 
 ## What I Worked On 
 
