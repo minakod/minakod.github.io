@@ -25,6 +25,8 @@ This is a first release note for continuing work on an app, called CRAM.  I was 
 * <a href="#2-1-2017">February 1, 2017</a>
 * <a href="#1-15-2017">January 15, 2017</a>
 
+
+
 <div id="5-1-2017"></div>
    
 ## May 1, 2017
@@ -60,6 +62,8 @@ For the next two weeks, I would like to continue working on improving the cram p
 
 * Deploy on Galaxy: I will continue working on deployment and make it function on the galaxy.
 * Fix Bugs: I will find major bugs that pop up during the deployment and fix important bugs.
+
+
 
 
 
@@ -107,6 +111,8 @@ For the next two weeks, I would like to work on improving the cram page that int
 
 
 
+
+
 <div id="4-1-2017"></div>
    
 ## April 1, 2017
@@ -149,6 +155,8 @@ For the next two weeks, I would like to work on allowing the user to choose bein
 
 
 
+
+
 <div id="3-15-2017"></div>
    
 ## March 15, 2017
@@ -187,6 +195,8 @@ For the next two weeks, I would like to spend my time changing the tutoerial pag
 * Tutorial Page: I will need to change the tutorial for the user page and for creating new study sessions.  
 * Create Study Session: I would allow the user to choose whether they want to be a teacher of study session or students.  Now, the user can only be a teacher for the study session.
 * Study Session Page: Since I allowed the user to create a study session as a student, I would need to add a button to be a teacher for the already created study sessions.
+
+
 
 
 
@@ -236,6 +246,8 @@ For the next two weeks, I would like to spend my time changing out the design of
 
 
 
+
+
 <div id="2-15-2017"></div>
    
 ## February 15, 2017
@@ -275,6 +287,8 @@ What I plan to accomplish for next milestone (March 1) is:
 
 
 
+
+
 <div id="2-1-2017"></div>
    
 ## February 1, 2017
@@ -310,6 +324,8 @@ What I plan to accomplish for next milestone (February 15) is:
 
 * Revising Calendar Functionality: I am still working on calendar system.  I would like calendar function to connect with a study session and being able to create and delete the study session from the calendar page.  I was able to add study session from the calendar page, yet it was not showing up on the calendar.  Therefore, I need to find out how to show up on the calendar. In addition, when the user adds the study session, there is no functionality to decide the time range of the study session, so I would need to implement it as well while I change the time of the calendar to Hawaii time.
 * Edit A Collection Of Sessions: I would need to allow multiple users or limited amount of students to join a study session.  For now, there is only one person can join since the student category can only store a string. I will change it to list of string so that multiple students will be stored.  After that, I will have a functionality to check the number of strings stored in a student in the collection of sessions and limit it to five students.
+
+
 
 
 
