@@ -6,7 +6,7 @@
     "email": "minakod@hawaii.edu",
     "phone": "",
     "website": "https://minakodoi.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2017.",
+    "summary": "I graduated from the University of Hawaii majoring in a B.S. in Computer Science in the Department of Information and Computer Sciences in Spring, 2017.",
     "location": {
       "address": "",
       "postalCode": "96815",
@@ -72,11 +72,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2017)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2015-08-24",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2017-05-13",
+      "gpa": "3.49",
       "courses": [
       ]
     },
